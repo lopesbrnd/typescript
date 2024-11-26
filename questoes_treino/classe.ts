@@ -17,3 +17,6 @@ let produto1 = new produto("como pegar mestre facil", 200);
 console.log(produto1.print())
 console.log('preco atualizado abaixo')
 console.log(produto1.desconto())
+
+// comando da questao
+// Crie uma classe chamada Produto com as seguintes propriedades: nome, preco e um método chamado desconto() que aplica um desconto percentual no preço do produto.

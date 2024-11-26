@@ -15,3 +15,6 @@ class CARRO{
 
 let carro1 = new CARRO('volkswagen', 'fusca', 1500)
 console.log(carro1.detalhes())
+
+//comando da questao
+//Crie uma instância da classe Carro e preencha as propriedades marca, modelo e ano. Implemente um método que exiba essas informações no console.
